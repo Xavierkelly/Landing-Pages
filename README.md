@@ -1,5 +1,5 @@
-# Landing Pages
-A set of landing page I have create to help you sell more of you software for your next project. This repo includes a full screen hero, Stat Counter,Pricing Table, Smooth scroll feature and benefits scections with data particles animations on hero full screen.
+# Landing Page
+A set of landing page I have create to help you sell more of you software for your next project. This repo includes a full screen hero, Stat Counter,Pricing Table, Smooth scroll feature and benefits scections with data particles animations on hero full screen. With over 65 plus background images to chose from.
 
 ### Example:
 ![alt tag](http://www.kelly.tech/static/img/propel.png)
