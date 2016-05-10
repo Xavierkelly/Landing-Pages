@@ -30,7 +30,7 @@
   <body>
     <section>
       <nav class="navbar navbar-default navbar-fixed-top" style=" font-family: 'Open Sans Condensed', sans-serif;  background:#fff">
-        <div class="container-fluid">
+        <div class="container">
           <div class="navbar-left col-xs-2 col-sm-6 col-md-6 col-lg-6">
             <a class="navbar-brand " href="#">
               <img alt="Brand Logo" height="30px" src="/static/img/logo.png">
@@ -192,7 +192,7 @@
       <!-- End of Features Section -->
       <!-- Start of Plans Section -->
       <div style=" font-family: 'Open Sans Condensed', sans-serif; padding: 20px 20px 40px;color:#030f1a;">
-	  <div class="container">
+	  <div class="container row">
         <!-- Plans Header Section Starts -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
           <center style=" font-family: 'Open Sans Condensed', sans-serif; padding:10px;">
@@ -305,10 +305,6 @@
         </footer>
     <!-- End of Footer -->
     <!-- javascript Starts -->
-
-
-
-
       <script src="/static/js/jquery.min.js"></script>
       <script src="/static/js/particles.js"></script>
       <script src="/static/js/index.js"></script>
@@ -319,15 +315,13 @@
             $('#particles-js').css({ height: $(window).innerHeight() });
           });
       </script>
-
-
       <!-- Button Static Number Counter Javascript -->
       <script type="text/javascript">
           $('.count').each(function () {
           $(this).prop('Counter',0).animate({
               Counter: $(this).text()
           }, {
-              duration:40000,
+              duration:4000,
               easing: 'swing',
               step: function (now) {
                   $(this).text(Math.ceil(now));
@@ -343,8 +337,6 @@
         });
 
     });
-
-
         // Button Smooth Scroll Javascript Ends //
       </script>
 <!-- javascript Ends -->
