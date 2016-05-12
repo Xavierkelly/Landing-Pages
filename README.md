@@ -3,13 +3,12 @@ A set of landing page I have create to help you sell more of you software for yo
 - [Propel Theme](https://github.com/Xavierkelly/Landing-Pages/blob/master/html/Propel.html)
 - [Scroll Theme](https://github.com/Xavierkelly/Landing-Pages/blob/master/html/Scroll.html)
 
-### Example:
+#### Propel Theme Example:
 ![alt tag](http://www.kelly.tech/static/img/propel.png)
 [View Demo](http://Propel.Kelly.Tech) 
 
+#### Scroll Theme Example:
 ![alt tag](http://www.kelly.tech/static/img/scroll.png)
-
-
 
 ### External styling sheets that are needed:
 - [Get Bootstrap](http://getbootstrap.com/)
