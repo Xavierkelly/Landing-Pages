@@ -12,6 +12,6 @@ A set of landing page I have create to help you sell more of you software for yo
 
 ### External styling sheets that are needed:
 - [Get Bootstrap](http://getbootstrap.com/)
-- [particlesJS](https://github.com/VincentGarreau/particles.js/)
+- [particles.JS](https://github.com/VincentGarreau/particles.js/)
 - [Jquery](https://jquery.com/)
 - [Google Font](https://www.google.com/fonts)
