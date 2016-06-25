@@ -9,7 +9,7 @@ A set of landing page I have create to help you sell more of your digital produc
 
 #### Scroll Theme Example:
 ![alt tag](http://www.kelly.tech/static/img/scroll.png)
-[View Demo](http://scroll-theme.kelly.tech/)
+[View Demo](http://scroll.kelly.tech/)
 
 ### External styling sheets that are needed:
 - [Get Bootstrap](http://getbootstrap.com/)
