@@ -1,6 +1,6 @@
-# Landing Page Designs
-A set of landing page I have create to help you sell more of your digital products for your next project. This repo includes a full screen hero, Stat Counter,Pricing Table, Smooth scroll feature and benefits scections with data particles animations on hero full screen. With over 65 plus background images to chose from. Themes:
-- [Propel Theme](https://github.com/Xavierkelly/Landing-Pages/blob/master/html/Propel.html) - V1.0.0
+# Website Landing Page Designs
+A set of website landing page that Kyle Rebello and I have create to help you sell more of your digital products online for your next project. This repo includes a full screen hero, Stat Counter,Pricing Table, Smooth scroll feature and benefits scections with data particles animations on hero full screen. Themes:
+- [Propel Theme](https://github.com/Xavierkelly/Landing-Pages/blob/master/html/Propel.html) - V1.0.1
 - [Scroll Theme](https://github.com/Xavierkelly/Landing-Pages/blob/master/html/Scroll.html) - V1.0.0
 
 #### Propel Theme Example:
